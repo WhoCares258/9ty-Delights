@@ -38,6 +38,18 @@ Built with a mobile-first approach using **Flexbox**, **CSS Grid**, and **media 
 
 ---
 
+## 📸 Screenshots
+
+> Showcase of key sections from the 9ty Delight website:
+
+| Home Page Hero | Menu Section | Reservation Form |
+|:--------------:|:------------:|:----------------:|
+| ![Hero](./screenshots/hero.png) | ![Menu](./screenshots/menu.png) | ![Reservation](./screenshots/reservation.png) |
+
+> _Ensure the `screenshots/` folder contains the images shown above. Replace image paths if necessary._
+
+---
+
 ## 👨‍💻 Team & Contributions
 
 This project demonstrates front-end development skills including:
