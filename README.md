@@ -45,31 +45,31 @@ Built with a mobile-first approach using **Flexbox**, **CSS Grid**, and **media 
 ### 🏠 Home
 ![Home](./screenshots/home.png)
 
-### ℹ️ About
+### 🧾 About
 ![About](./screenshots/about.png)
 
-### ℹ️ Statistics
+### 📊 Statistics
 ![About 2](./screenshots/about2.png)
 
 ### 🍽️ Menu
 ![Menu](./screenshots/menu.png)
 
-### 🍽️ Menu Items
+### 🧆 Menu Items
 ![Menu 2](./screenshots/menu2.png)
 
-### 📅 Twin Forms
+### 📝 Twin Forms
 ![Reservation Form](./screenshots/forms.png)
 
 ### 📞 Footer
 ![Footer](./screenshots/footer.png)
 
-### 📱 Mobile View 
-![Mobile Navbar](./screenshots/mobile.png)
+### 📱 Mobile View
+![Mobile View](./screenshots/mobile.png)
 
-### 📱 Mobile Navbar
+### 📋 Mobile Navbar
 ![Mobile Navbar](./screenshots/navbar.png)
 
-### 📱 Mobile View 2
+### 📲 Mobile View 2
 ![Mobile View 2](./screenshots/mobile2.png)
 
 
